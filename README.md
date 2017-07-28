@@ -1,2 +1,2 @@
-<img src="http://imgur.com/a/stRT4">
+<img src="http://i.imgur.com/aiNMVbu.png">
 Tool for scanning, verify and exploit code injections in websites
